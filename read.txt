@@ -1,0 +1,6 @@
+1.需要安装Martin Wallet
+https://martianwallet.xyz
+2.安装后点 Airdrop 获取测试币
+3.进入官网mint 域名
+https://aptosnames.com
+4.成功之后可以在钱包中看到，每个钱包只能mint一个域名
